@@ -97,6 +97,9 @@
     "enabled": false
   },
   "email": {
-    "enabled": false
+    "enabled": false,
+    "smtp_server": "smtp.example.com",
+    "imap_server": "imap.example.com",
+    "email_address": "noreply@example.com"
   }
 }
